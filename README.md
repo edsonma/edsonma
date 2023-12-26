@@ -31,3 +31,6 @@ Hello, I'm Edson Ma. I currently living in Brasília, Brazil and I am a dedicate
 ### Contact Me
 
 I am open to discussions, collaborations, and exploring new opportunities. Feel free to connect with me on [LinkedIn, GitHub, or any other preferred platform].
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/edsonma)
+
