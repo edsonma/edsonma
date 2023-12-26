@@ -1,11 +1,10 @@
-## Hi 马 👋
-<img src="https://github.com/edsonma/edsonma/assets/711579/2aaca4c9-1047-4c54-a13e-5c536fdd67bd" alt="Profile Picture" width="30%">
+
+  
+## Hi 马 👋 - I'm Edson Ma
+<img align='right' src="https://github.com/edsonma/edsonma/assets/711579/2aaca4c9-1047-4c54-a13e-5c536fdd67bd" width=30% />
+<p><em>Software Engineer | Technology Enthusiast  I currently live in Brasília, Brazil, and I am a dedicated software engineer with an interest in leveraging technology to drive innovation. </em>
   
 ### About Me
-
-Software Engineer | Technology Enthusiast
-
-Hello, I'm Edson Ma. I currently live in Brasília, Brazil, and I am a dedicated software engineer with an interest in leveraging technology to drive innovation.
 
 - 🔭 **Currently Working On:** [Origem Motos](https://www.instagram.com/origemmotos/)
 
