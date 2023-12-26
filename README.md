@@ -38,4 +38,3 @@ I am open to discussions, collaborations, and exploring new opportunities. Feel 
 ### Stats 
 [![EdsonMa's github trophy](https://github-profile-trophy.vercel.app/?username=edsonma&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![EdsonMa's github stats](https://github-readme-stats.vercel.app/api?username=edsonma&theme=blue-green)](https://github.com/edsonma/github-readme-stats)
