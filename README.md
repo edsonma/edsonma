@@ -34,3 +34,6 @@ I am open to discussions, collaborations, and exploring new opportunities. Feel 
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/edsonma)
 
+
+### Stats 
+[![EdsonMa's github trophy](https://github-profile-trophy.vercel.app/?username=edsonma&row=1)](https://github.com/ryo-ma/github-profile-trophy)
