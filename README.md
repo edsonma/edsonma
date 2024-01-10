@@ -14,12 +14,15 @@
   - Exploring Change Data Capture (CDC) with a focus on technologies like Kafka, RabbitMQ, ETL Tools, Elasticsearch, and GraphicQL.
   - The next step in my learning journey is to delve into JavaScript/TypeScript World.
 
-
 - 👯 **Looking to Collaborate On:**
   - Open source demos, innovative projects, and initiatives to help Origem Motos grow by evolving internal technologies.
 
 - 💬 **Ask Me About:**
-  - Electric motorcycles, marketing automation, financial services, full-stack development, and the clarinet.
+  - I'm Rubyst, deeply passionate about Ruby on Rails (RoR).
+  - Electric motorcycles, marketing automation, financial services, full-stack development, and clarinet.
+  - Occasionally, I enjoy prototyping with Arduino and experimenting with Raspberry Pi.
+  - I'm an enthusiast of live coding, particularly with Sonic Pi. I'm eager to carve out some extra time to delve deeper into learning it.
+  - Do you like Crochet? :) I do.
 
 - 📫 **How to Reach Me:**
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/edsonma/)
