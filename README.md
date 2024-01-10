@@ -22,8 +22,8 @@
   - Electric motorcycles, marketing automation, financial services, full-stack development, and clarinet.
   - Occasionally, I enjoy prototyping with Arduino and experimenting with Raspberry Pi.
   - I'm an enthusiast of live coding, particularly with Sonic Pi. I'm eager to carve out some extra time to delve deeper into learning it.
-  - Do you like Crochet? :) I do.
-  - I have a passion for martial arts, including Taekwondo, Boxing, Kickboxing, and Muay Thai. Up for some friendly sparring?
+  - Do you like Crochet? :) I do. 🧶
+  - I have a passion for martial arts, including Taekwondo, Boxing, Kickboxing, and Muay Thai. Up for some friendly sparring? 🥊🥋
 
 - 📫 **How to Reach Me:**
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/edsonma/)
