@@ -11,7 +11,9 @@
   In 2017, Origem Motos emerged in Brasília/DF as the pioneering designer and manufacturer of electric motorcycles in Brazil. Since then, its mission has been to democratize electric mobility in Latin America. The company provides mobility as a service for businesses, fleets, and condominiums through monthly subscription plans. Benefits include registration, taxes, fleet management, real-time monitoring, reserve motorcycles, unlimited mileage, and unlimited battery exchanges.
 
 - 🌱 **Currently Learning:**
-  - Exploring Change Data Capture (CDC) with a focus on technologies like Kafka, RabbitMQ, ETL Tools, Elasticsearch, and GraphiQL.
+  - Exploring Change Data Capture (CDC) with a focus on technologies like Kafka, RabbitMQ, ETL Tools, Elasticsearch, and GraphicQL.
+  - The next step in my learning journey is to delve into JavaScript/TypeScript World.
+
 
 - 👯 **Looking to Collaborate On:**
   - Open source demos, innovative projects, and initiatives to help Origem Motos grow by evolving internal technologies.
