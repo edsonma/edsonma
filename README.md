@@ -6,7 +6,7 @@
   
 ### About Me
 
-- 🔭 **Currently Working On:** [Origem Motos](https://www.instagram.com/origemmotos/)
+- 🔭 **My former job:** [Origem Motos](https://www.instagram.com/origemmotos/)
 
   In 2017, Origem Motos emerged in Brasília/DF as the pioneering designer and manufacturer of electric motorcycles in Brazil. Since then, its mission has been to democratize electric mobility in Latin America. The company provides mobility as a service for businesses, fleets, and condominiums through monthly subscription plans. Benefits include registration, taxes, fleet management, real-time monitoring, reserve motorcycles, unlimited mileage, and unlimited battery exchanges.
 
