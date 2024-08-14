@@ -11,10 +11,14 @@
   In 2017, Origem Motos emerged in Brasília/DF as the pioneering designer and manufacturer of electric motorcycles in Brazil. Since then, its mission has been to democratize electric mobility in Latin America. The company provides mobility as a service for businesses, fleets, and condominiums through monthly subscription plans. Benefits include registration, taxes, fleet management, real-time monitoring, reserve motorcycles, unlimited mileage, and unlimited battery exchanges.
 
 - 🌱 **Currently Learning:**
-  - Exploring Change Data Capture (CDC) with a focus on technologies like Kafka, RabbitMQ, ETL Tools, Elasticsearch, and GraphicQL.
-  - Will I become a [Rustacean](https://plgah.medium.com/will-i-become-a-rustacean-f1cdfe3bf98e)? I am really interested in Rust and I will Rust for sure. 
-  - Other learning path is javascript/typscript world. It has a universe to explore.
-  - And Julia Lang? Very impressive of its speed! For sure is in my checklist.
+  - Exploring Change Data Capture (CDC)
+     - I've been working on Change Data Capture (CDC) with a focus on technologies like Kafka, RabbitMQ, ETL tools, Elasticsearch, and GraphQL.
+
+- Future Plans
+  - I’m really interested in Rust, and I’m sure I’ll become a Rustacean!
+    - Will I become a [Rustacean](https://plgah.medium.com/will-i-become-a-rustacean-f1cdfe3bf98e)?
+  - Another learning path I’m considering is the JavaScript/TypeScript world, which has a vast universe to explore.
+  - Julia Lang also impresses me with its speed and is definitely on my checklist.
 
 - 👯 **Looking to Collaborate On:**
   - Open source demos, innovative projects, and initiatives to help Origem Motos grow by evolving internal technologies.
