@@ -14,14 +14,15 @@
   - Exploring Change Data Capture (CDC)
      - I've been working on Change Data Capture (CDC) with a focus on technologies like Kafka, RabbitMQ, ETL tools, Elasticsearch, and GraphQL.
 
-- Future Plans
-  - I’m really interested in Rust, and I’m sure I’ll become a Rustacean!
-    - Will I become a [Rustacean](https://plgah.medium.com/will-i-become-a-rustacean-f1cdfe3bf98e)?
-  - Another learning path I’m considering is the JavaScript/TypeScript world, which has a vast universe to explore.
-  - Julia Lang also impresses me with its speed and is definitely on my checklist.
+  - 🗺️ Future Plans
+    - I’m really interested in Rust, and I’m sure I’ll become a Rustacean!
+      - Will I become a [Rustacean](https://plgah.medium.com/will-i-become-a-rustacean-f1cdfe3bf98e)?
+    - Another learning path I’m considering is the JavaScript/TypeScript world, which has a vast universe to explore.
+    - Julia Lang also impresses me with its speed and is definitely on my checklist.
 
 - 👯 **Looking to Collaborate On:**
-  - Open source demos, innovative projects, and initiatives to help Origem Motos grow by evolving internal technologies.
+  - Open Source & Innovation
+    - I'm interested in exploring open source demos, working on innovative projects, and diving into new technologies, stacks, and business opportunities.
 
 - 💬 **Ask Me About:**
   - I'm Rubyst, deeply passionate about Ruby on Rails (RoR).
