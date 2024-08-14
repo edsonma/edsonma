@@ -12,7 +12,9 @@
 
 - 🌱 **Currently Learning:**
   - Exploring Change Data Capture (CDC) with a focus on technologies like Kafka, RabbitMQ, ETL Tools, Elasticsearch, and GraphicQL.
-  - The next step in my learning journey is to delve into JavaScript/TypeScript World.
+  - Will I become a [Rustacean](https://plgah.medium.com/will-i-become-a-rustacean-f1cdfe3bf98e)? I am really interested in Rust and I will Rust for sure. 
+  - Other learning path is javascript/typscript world. It has a universe to explore.
+  - And Julia Lang? Very impressive of its speed! For sure is in my checklist.
 
 - 👯 **Looking to Collaborate On:**
   - Open source demos, innovative projects, and initiatives to help Origem Motos grow by evolving internal technologies.
