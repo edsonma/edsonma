@@ -6,19 +6,25 @@
   
 ### About Me
 
-- 🔭 **My former job:** [Origem Motos](https://www.instagram.com/origemmotos/)
+- 🔭 **My former job - 2023/2024:** [Origem Motos](https://www.instagram.com/origemmotos/)
 
   In 2017, Origem Motos emerged in Brasília/DF as the pioneering designer and manufacturer of electric motorcycles in Brazil. Since then, its mission has been to democratize electric mobility in Latin America. The company provides mobility as a service for businesses, fleets, and condominiums through monthly subscription plans. Benefits include registration, taxes, fleet management, real-time monitoring, reserve motorcycles, unlimited mileage, and unlimited battery exchanges.
+  - It was a big challenge working on Change Data Capture (CDC) with a focus on technologies like Kafka, RabbitMQ, ETL tools, Elasticsearch, and GraphQL.
 
 - 🌱 **Currently Learning:**
-  - Exploring Change Data Capture (CDC)
-     - I've been working on Change Data Capture (CDC) with a focus on technologies like Kafka, RabbitMQ, ETL tools, Elasticsearch, and GraphQL.
+  - 🥇 Current Studies
+    - JavaScript/TypeScript world, which has a vast universe to explore.
+    - I have basic knowledge of react.js. I am training and improving this frontend knowledge
+    - I worked a while with Heroku PaaS and liked how easy were to deploy an app there but actually no more free dynos. 
+       - ...so I am now exploring fly.io
+       - I have a foundational understanding of AWS services and am currently enhancing my knowledge to gain a deeper understanding of its features.
 
   - 🗺️ Future Plans
-    - I’m really interested in Rust, and I’m sure I’ll become a Rustacean!
-      - Will I become a [Rustacean](https://plgah.medium.com/will-i-become-a-rustacean-f1cdfe3bf98e)?
-    - Another learning path I’m considering is the JavaScript/TypeScript world, which has a vast universe to explore.
+    - Get AWS certificates would be interesting...
+    - I’m really interested in Rust, and I’m sure I’ll become a Rustacean someday!
+      - Will I become a [Rustacean](https://plgah.medium.com/will-i-become-a-rustacean-f1cdfe3bf98e)?    
     - Julia Lang also impresses me with its speed and is definitely on my checklist.
+    - I believe exploring better Python Universe would be a good choice and would be nice to add to my todolist.
 
 - 👯 **Looking to Collaborate On:**
   - Open Source & Innovation
