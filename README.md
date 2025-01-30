@@ -1,12 +1,14 @@
-
+![image](https://github.com/user-attachments/assets/0c438d2b-1eb7-4707-9796-ee4677ed5aa8)
   
 ## Hi 马 👋 - I'm Edson Ma
 <img align='right' src="https://github.com/edsonma/edsonma/assets/711579/2aaca4c9-1047-4c54-a13e-5c536fdd67bd" width=30% />
 <p><em>Software Engineer | Technology Enthusiast | I currently live in Brasília, Brazil, and I am a dedicated software engineer with an interest in leveraging technology to drive innovation. </em>
   
 ### About Me
+- 💻 ** Current Job - 2025 ** [AssureSoft](https://www.assuresoft.com/)
+  Ruby Rails for Behavioral Health industry
 
-- 🔭 **My former job - 2023/2024:** [Origem Motos](https://www.instagram.com/origemmotos/)
+- 🔭 ** Previus Job - 2023/2024:** [Origem Motos](https://www.instagram.com/origemmotos/)
 
   In 2017, Origem Motos emerged in Brasília/DF as the pioneering designer and manufacturer of electric motorcycles in Brazil. Since then, its mission has been to democratize electric mobility in Latin America. The company provides mobility as a service for businesses, fleets, and condominiums through monthly subscription plans. Benefits include registration, taxes, fleet management, real-time monitoring, reserve motorcycles, unlimited mileage, and unlimited battery exchanges.
   - It was a big challenge working on Change Data Capture (CDC) with a focus on technologies like Kafka, RabbitMQ, ETL tools, Elasticsearch, and GraphQL.
