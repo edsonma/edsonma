@@ -6,6 +6,7 @@
   
 ### About Me
 - 💻 ** Current Job - 2025 ** [AssureSoft](https://www.assuresoft.com/)
+
   Ruby Rails for Behavioral Health industry
 
 - 🔭 ** Previus Job - 2023/2024:** [Origem Motos](https://www.instagram.com/origemmotos/)
