@@ -18,6 +18,7 @@
   - 🥇 Current Studies
     - JavaScript/TypeScript world, which has a vast universe to explore.
     - I have basic knowledge of react.js. I am training and improving this frontend knowledge
+    - Vue.js - WIP
     - I worked a while with Heroku PaaS and liked how easy were to deploy an app there but actually no more free dynos. 
        - ...so I am now exploring fly.io
        - I have a foundational understanding of AWS services and am currently enhancing my knowledge to gain a deeper understanding of its features.
