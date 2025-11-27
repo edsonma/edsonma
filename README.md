@@ -7,7 +7,7 @@
 ### About Me
 - 💻 ** Current Job - 2025 ** [AssureSoft](https://www.assuresoft.com/)
 
-  Ruby Rails for Behavioral Health industry
+  Ruby Rails for Behavioral Health industry (https://www.kipuhealth.com/)
 
 - 🔭 ** Previus Job - 2023/2024:** [Origem Motos](https://www.instagram.com/origemmotos/)
 
@@ -16,18 +16,18 @@
 
 - 🌱 **Currently Learning:**
   - 🥇 Current Studies
+    - Julia Lang also impresses me with its speed and is definitely on my checklist. 
     - JavaScript/TypeScript world, which has a vast universe to explore.
     - I have basic knowledge of react.js. I am training and improving this frontend knowledge
-    - Vue.js - WIP
+    - Vue.js looks interesting.
     - I worked a while with Heroku PaaS and liked how easy were to deploy an app there but actually no more free dynos. 
        - ...so I am now exploring fly.io
-       - I have a foundational understanding of AWS services and am currently enhancing my knowledge to gain a deeper understanding of its features.
+       - I have a foundational understanding of AWS services and am currently enhancing my knowledge to get a deeper understanding of its features.
 
   - 🗺️ Future Plans
     - Get AWS certificates would be interesting...
     - I’m really interested in Rust, and I’m sure I’ll become a Rustacean someday!
       - Will I become a [Rustacean](https://plgah.medium.com/will-i-become-a-rustacean-f1cdfe3bf98e)?    
-    - Julia Lang also impresses me with its speed and is definitely on my checklist.
     - I believe exploring better Python Universe would be a good choice and would be nice to add to my todolist.
 
 - 👯 **Looking to Collaborate On:**
@@ -35,12 +35,13 @@
     - I'm interested in exploring open source demos, working on innovative projects, and diving into new technologies, stacks, and business opportunities.
 
 - 💬 **Ask Me About:**
-  - I'm Rubyst, deeply passionate about Ruby on Rails (RoR).
-  - Electric motorcycles, marketing automation, financial services, full-stack development, and clarinet.
+  - I'm Rubyst, deeply passionate about Ruby on Rails (RoR).  
   - Occasionally, I enjoy prototyping with Arduino and experimenting with Raspberry Pi.
   - I'm an enthusiast of live coding, particularly with Sonic Pi. I'm eager to carve out some extra time to delve deeper into learning it.
   - Do you like Crochet? :) I do. 🧶
   - I have a passion for martial arts, including Taekwondo, Boxing, Kickboxing, and Muay Thai. Up for some friendly sparring? 🥊🥋
+  - Swim. 2025 was a challenging swimming year for me. I signed up for 10 open-water events in Brasília/DF.
+     - Mission Acomplished...and 5 times! (complete a 5 km distance challenge)
 
 - 📫 **How to Reach Me:**
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/edsonma/)
