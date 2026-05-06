@@ -5,7 +5,7 @@
 <p><em>Software Engineer | Technology Enthusiast | I currently live in Brasília, Brazil, and I am a dedicated software engineer with an interest in leveraging technology to drive innovation. </em>
   
 ### About Me
-- 💻 ** Current Job - 2025 ** [AssureSoft](https://www.assuresoft.com/)
+- 💻 ** Current Job - 2025/2026/... ** [AssureSoft](https://www.assuresoft.com/)
 
   Ruby Rails for Behavioral Health industry (https://www.kipuhealth.com/)
 
